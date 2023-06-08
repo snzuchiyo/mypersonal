@@ -1,0 +1,36 @@
+html {
+    position: relative;
+}
+
+body {
+    margin-bottom: 100px;
+}
+
+.jumbotron img{
+    width: 200px;
+    border: 5px solid #666;
+}
+
+hr{
+    width: 250px;
+    border-top: 3px solid #999;
+}
+
+section {
+    min-height: 300px; 
+}
+
+.resume {
+    background-color: #eee;
+}
+
+.kontak {
+    min-height: 800px;
+}
+
+footer {
+    position: absolute;
+    botton: 0;
+    width: 100%;
+    height: 100px;
+}
